@@ -5,6 +5,8 @@ layout: splash
 
 header:
     overlay_image: /assets/feature.jpg
+    overlay_filter: 0.5
+    
 excerpt: "Re-imagining parking spaces as people spaces"
 ---
 
